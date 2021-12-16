@@ -27,4 +27,13 @@ RoxygenNote: 7.1.2
 SystemRequirements: GDAL, GEOS, PROJ, pandoc, Rtools (for Windows users)
 Imports:
     fontawesome,
+    ggplot2,
+    here,
+    magrittr,
+    mapview,
+    rnaturalearth,
+    rnaturalearthdata,
+    sf,
     xaringan
+Remotes:
+    ropensci/rnaturalearthdata
